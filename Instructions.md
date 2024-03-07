@@ -47,6 +47,4 @@ _(Note: If you turn your head sideways, you can see how this represents the tree
 
 ## _Turn in and Grading_
 
-- The AVLTree class should use a seperate AVLTree.h and AVLTree.cpp file.
-- Please zip your entire project directory into a single file called project4.zip and upload to the dropbox in Pilot.
-
+See [README.md](https://github.com/WSU-CS-3100/Project4/blob/main/README.md)
