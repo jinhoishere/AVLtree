@@ -1,8 +1,7 @@
 ## Table of Contents:
 * [Learning Objectives](#learning-objectives)
 * [Overview](#overview)
-* [Program Operation](#program-operation)
-* [Example](#example-of-program-execution)
+* [The AVLTree Class](#the-avltree-class)
 * [Grading](#turn-in-and-grading)
 
 ---
