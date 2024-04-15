@@ -45,7 +45,7 @@ AVLTree& AVLTree::operator=(const AVLTree& t) {
 
     // Copy tree 't' to the current tree
     Node* copiedNode = t.root;
-    this -> copyHelper(copiedNode);
+    root = copyHelper(copiedNode);
 
     return *this;
 }
